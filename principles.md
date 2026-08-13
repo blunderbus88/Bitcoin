@@ -19,13 +19,20 @@ The decisions we make today will echo for centuries. Therefore, we hold these pr
 Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, usable on its own terms. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
 
 ## 2. Twenty-One Million
+
+### Law
+
 Absolute scarcity is inviolable. There shall never be more than 21,000,000 Bitcoin where each Bitcoin is defined as 100,000,000 Satoshis. Any error, exploit, or as yet unforeseen consequence which would increase the limit is therefore entitled to be rectified such that the limit is upheld.
+
+### Rationale
+
+Bitcoin's fixed issuance is fundamental to its character as sound money as definitional to its nature. No government, corporation, developer, miner, emergency, war, recession, political movement, or party of any caliber may justify monetary debasement, deliberate or accidental. We reject perpetual inflation as a solution to Bitcoin's security budget, enfranchisement of holders, replacement of lost coins, or any future justifications unforeseen at this date.
 
 ## 3. Commitment to preserving decentralization.
 We commit to placing decentralization first when evaluating any software change, rigorously rejecting any proposal that increases the cost of running a node or concentrates validation power. We believe the network must remain accessible to everyone, using commercial off-the-shelf hardware. If a proposed change compromises the ability of individuals to independently verify the ledger and broadcast their own transactions, it is incompatible with our mission.
 
 We explicitly reject the monoculture of a single software implementation; we seek to cultivate a thriving ecosystem of diverse, open sourced node clients, ensuring that no single codebase or group of developers hold the power to redefine policy or consensus.
-Mining must remain open to independent participation and resist concentration of power in the hands of a few institutions. 
+Mining must remain open to independent participation and resist concentration of power in the hands of a few institutions.
 
 Bitcoin is strongest when verification and block production are distributed among many independent participants.
 We will work to maintain a cultural ethos that supports this outcome.
@@ -38,11 +45,3 @@ Bitcoin was not built just for us. We are temporary custodians of a monetary sys
 We judge changes not only by what they accomplish today, but by the precedents, dependencies, and burdens they leave behind. Convenience in the present must not come at the expense of sovereignty in the future.
 We seek to preserve the money that our children and grandchildren can hold, transact with, and independently verify under the same fundamental rules we inherited.
 We do not optimize Bitcoin for the next cycle. We preserve it for the next century.
-
-
-
-
-
-
-
-
