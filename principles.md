@@ -1,4 +1,5 @@
-# A covenant for sound money
+# Bitcoin Constitution
+## Guiding Principles of Sound Money
 
 We came to Bitcoin by different roads, but we arrived at the same truth.
 
