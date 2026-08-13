@@ -15,9 +15,11 @@ We choose to build things meant to last. We choose to preserve rather than consu
 The decisions we make today will echo for centuries. Therefore, we hold these principles.
 
 ## 1. Bitcoin is money.
-Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and a store of value, usable on its own terms. We say plainly what it is, because clarity of purpose is the first defense against those who would redefine it into something that it is not.
+Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, usable on its own terms. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
+
 ## 2. Twenty-One Million
-Scarcity is a promise between generations. No government, corporation, developer, miner, emergency, war, recession, political movement, or temporary expediency shall justify  -- even in thought -- debasing that promise. We reject the pragmatism of inflation. We reject the logic of "lost keys" as a reason to debase. We reject the notion that security requires subsidy. What is scarce today must remain scarce tomorrow. To consider changing Bitcoin’s hard cap limit is to destroy this promise. 21,000,000. Not one satoshi more.  We promise to never propose, consider, or accept a violation of this limit.
+Bitcoin's fixed issuance schedule is fundamental to its character as sound money. It shall not be altered to create monetary inflation beyond its established limit. No government, corporation, developer, miner, emergency, war, recession, political movement, loss of coins, or concern over future miner revenue justifies deliberate monetary debasement. We reject perpetual inflation as a solution to Bitcoin's security budget. We reject additional issuance to replace lost coins. We reject any deliberate expansion of Bitcoin's supply. Twenty-one million. Not one satoshi more.
+
 ## 3. Commitment to preserving decentralization.
 We commit to placing decentralization first when evaluating any software change, rigorously rejecting any proposal that increases the cost of running a node or concentrates validation power. We believe the network must remain accessible to everyone, using commercial off-the-shelf hardware. If a proposed change compromises the ability of individuals to independently verify the ledger and broadcast their own transactions, it is incompatible with our mission.
 
