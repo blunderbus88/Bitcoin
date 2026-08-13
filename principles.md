@@ -1,5 +1,5 @@
-# Bitcoin Constitution
-## Guiding Principles of Sound Money
+# Bitcoin Principles
+## A Commitment to Sound Money
 
 We came to Bitcoin by different roads, but we arrived at the same truth.
 
