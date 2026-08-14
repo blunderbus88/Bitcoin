@@ -16,7 +16,7 @@ We choose to build things meant to last. We choose to preserve rather than consu
 The decisions we make today will echo for centuries. Therefore, we hold these principles.
 
 ## 1. Bitcoin is money.
-Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, usable on its own terms. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
+Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, capable of serving as its own unit of account. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
 
 ## 2. Twenty-One Million
 Bitcoin's fixed issuance schedule is fundamental to its character as sound money. It shall not be altered to create monetary inflation beyond its established limit. No government, corporation, developer, miner, emergency, war, recession, political movement, loss of coins, or concern over future miner revenue justifies deliberate monetary debasement. We reject perpetual inflation as a solution to Bitcoin's security budget. We reject additional issuance to replace lost coins. We reject any deliberate expansion of Bitcoin's supply. Twenty-one million. Not one Satoshi more.
