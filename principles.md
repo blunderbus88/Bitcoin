@@ -32,7 +32,7 @@ Bitcoin's fixed issuance is fundamental to its character as sound money as defin
 We commit to placing decentralization first when evaluating any software change, rigorously rejecting any proposal that increases the cost of running a node or concentrates validation power. We believe the network must remain accessible to everyone, using commercial off-the-shelf hardware. If a proposed change compromises the ability of individuals to independently verify the ledger and broadcast their own transactions, it is incompatible with our mission.
 
 We explicitly reject the monoculture of a single software implementation; we seek to cultivate a thriving ecosystem of diverse, open sourced node clients, ensuring that no single codebase or group of developers hold the power to redefine policy or consensus.
-Mining must remain open to independent participation and resist concentration of power in the hands of a few institutions.
+Mining must remain open to independent participation and resist concentration of power in the hands of a few institutions. 
 
 Bitcoin is strongest when verification and block production are distributed among many independent participants.
 We will work to maintain a cultural ethos that supports this outcome.
@@ -45,3 +45,11 @@ Bitcoin was not built just for us. We are temporary custodians of a monetary sys
 We judge changes not only by what they accomplish today, but by the precedents, dependencies, and burdens they leave behind. Convenience in the present must not come at the expense of sovereignty in the future.
 We seek to preserve the money that our children and grandchildren can hold, transact with, and independently verify under the same fundamental rules we inherited.
 We do not optimize Bitcoin for the next cycle. We preserve it for the next century.
+
+
+
+
+
+
+
+
