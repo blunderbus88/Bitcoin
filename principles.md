@@ -13,7 +13,7 @@ Behind it lies a simple, sacred proposition: Honest money changes how people liv
 When money cannot be debased, saving becomes meaningful. When saving becomes meaningful, the future matters. We choose to think beyond the next quarter, the next election, the next cycle—beyond our own lifetimes.
 We choose to build things meant to last. We choose to preserve rather than consume. We consider what we leave to our children, and what they will leave to theirs. 
 
-The decisions we make today will echo for centuries. Therefore, we hold these principles.
+The decisions we make today will echo for centuries. Therefore, we hold these Principles.
 
 ## 1. Bitcoin is money.
 Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, capable of serving as its own unit of account. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
@@ -31,13 +31,17 @@ Bitcoin gives individuals the ability to hold and transact with money without re
 Bitcoin is not conservative out of stagnation, but by design. The base layer exists to preserve Bitcoin as sound, peer-to-peer electronic cash—not as a platform for perpetual experimentation, feature development, or the pursuit of novel use cases.  Innovation may flourish in higher layers, but the monetary foundation beneath them must remain stable. As Bitcoin matures, its protocol should move toward ossification. The threshold for changing its fundamental rules should rise with time, until development consists primarily of maintenance, security, compatibility, and improvements necessary to preserve the system we inherited. Those proposing fundamental changes bear the burden of demonstrating, openly and to skeptics, that they are necessary to preserve Bitcoin's monetary properties, not merely useful, desirable, profitable, or technically possible.
 
 ## 6. We think in generations
-Bitcoin must not serve only us. We are temporary custodians of a monetary system intended to endure long after we are gone. We judge changes not only by what they accomplish in our lifetimes, but by the precedents, dependencies, and burdens they leave future generations. Convenience in the present must not come at the expense of future sovereignty. We seek to preserve a money our children and grandchildren can hold, transact with, and independently verify under the same fundamental principles we inherited. In matters of fundamental principle, the Bitcoin of today must be the Bitcoin of tomorrow. We do not optimize Bitcoin for the next cycle. We preserve it for the next century.
+Bitcoin must not serve only us. We are temporary custodians of a monetary system intended to endure long after we are gone. We judge changes not only by what they accomplish in our lifetimes, but by the precedents, dependencies, and burdens they leave future generations. Convenience in the present must not come at the expense of future sovereignty. We seek to preserve a money our children and grandchildren can hold, transact with, and independently verify under the same fundamental Principles we inherited. In matters of fundamental principle, the Bitcoin of today must be the Bitcoin of tomorrow. We do not optimize Bitcoin for the next cycle. We preserve it for the next century.
 
 ## 7. Disagreement without division
 Bitcoin depends not only upon code, but upon the voluntary agreement of people who independently choose to enforce the same rules.  When disagreement arises, we return first to these Principles and ask what best preserves the common ground that brought us together. Changes that threaten to fracture that agreement bear an extraordinary burden of necessity. We should remember what this hard fork has cost us — the uncertainty, division, stress, and loss of trust that brought us here. We are stronger together. These Principles give us common ground to return to when future disagreements arise — not by demanding conformity, but by reminding us what brought us together and what we chose to preserve.
 
 
+## Our Commitment
 
+We, the undersigned, affirm these Principles as an expression of what we believe Bitcoin is and what must be preserved. We commit ourselves to uphold them, to judge future changes against them, and to preserve these Principles for those who come after us.
+
+We sign not to bind others, but to state plainly where we stand.
 
 
 
