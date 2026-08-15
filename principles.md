@@ -7,7 +7,7 @@ Some fled broken money. Some distrusted institutions. Some sought permissionless
 
 But we all found the same thing:
 
-A system built not by the dictate of the chosen few, but on rules anyone can verify and validate. A money that cannot be created at another’s expense. A network no authority can command. A ledger that refuses censorship.
+A system built not by the dictate of the chosen few, but on rules anyone can verify and validate. A money not created at another's expense. A network no authority can command. A ledger that refuses censorship.
 Behind it lies a simple, sacred proposition: Honest money changes how people live.
 
 When money cannot be debased, saving becomes meaningful. When saving becomes meaningful, the future matters. We choose to think beyond the next quarter, the next election, the next cycle—beyond our own lifetimes.
