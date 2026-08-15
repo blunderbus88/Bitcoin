@@ -1,5 +1,5 @@
-# Bitcoin Constitution
-## Guiding Principles of Sound Money
+# Bitcoin Principles
+## A Commitment to Sound Money
 
 We came to Bitcoin by different roads, but we arrived at the same truth.
 
@@ -16,7 +16,7 @@ We choose to build things meant to last. We choose to preserve rather than consu
 The decisions we make today will echo for centuries. Therefore, we hold these principles.
 
 ## 1. Bitcoin is money.
-Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, usable on its own terms. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
+Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, capable of serving as its own unit of account. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
 
 ## 2. Twenty-One Million
 
@@ -28,23 +28,20 @@ Absolute scarcity is inviolable. There shall never be more than 21,000,000 Bitco
 
 Bitcoin's fixed issuance is fundamental to its character as sound money as definitional to its nature. No government, corporation, developer, miner, emergency, war, recession, political movement, or party of any caliber may justify monetary debasement, deliberate or accidental. We reject perpetual inflation as a solution to Bitcoin's security budget, enfranchisement of holders, replacement of lost coins, or any future justifications unforeseen at this date.
 
-## 3. Commitment to preserving decentralization.
-We commit to placing decentralization first when evaluating any software change, rigorously rejecting any proposal that increases the cost of running a node or concentrates validation power. We believe the network must remain accessible to everyone, using commercial off-the-shelf hardware. If a proposed change compromises the ability of individuals to independently verify the ledger and broadcast their own transactions, it is incompatible with our mission.
+## 3. Pursue decentralization
+We seek a Bitcoin in which individuals can hold, transact, verify, and participate without requiring permission from or dependence upon any person, company, development team, software implementation, miner, or institution. Changes affecting Bitcoin's protocol, network policy, or practical requirements for participation should be evaluated for their effect on decentralization. We consider the accessibility of independent node operation, the cost of verification, concentration of mining and development, and dependence upon particular software or infrastructure. We welcome diversity in implementations, mining, infrastructure, and development because we believe it strengthens resilience of the network. Decentralization is not a condition we claim to have achieved, but a direction we commit to pursue.
 
-We explicitly reject the monoculture of a single software implementation; we seek to cultivate a thriving ecosystem of diverse, open sourced node clients, ensuring that no single codebase or group of developers hold the power to redefine policy or consensus.
-Mining must remain open to independent participation and resist concentration of power in the hands of a few institutions. 
+## 4. Sovereignty requires responsibility
+Bitcoin gives individuals the ability to hold and transact with money without requiring a trusted custodian. That sovereignty carries responsibility. We encourage Bitcoiners to understand the tools upon which their security depends, independently generate and protect their keys, verify rather than trust, and reduce unnecessary dependence upon proprietary hardware, software, and third parties. Convenience should not recreate the trusted intermediaries Bitcoin was designed to make unnecessary. We encourage the use of open-source software, commodity hardware, independently generated entropy, and tools that can be inspected, reproduced, repaired, or replaced. Not your keys, not your coins. Not your entropy, not your keys.
 
-Bitcoin is strongest when verification and block production are distributed among many independent participants.
-We will work to maintain a cultural ethos that supports this outcome.
-## 4. No one rules Bitcoin.
-We reject concentrated funding from corporations or consortia, recognizing that capital seeks to shape the protocol it sustains. We champion direct individual contributions, ensuring no single donor holds undue influence. Development is a public good, not a product feature; it must be sustained by users, not institutions seeking leverage. We remain hostile and skeptical of any funding structure – corporate or nonprofit - that trades independence for convenience or integrity for fiat gains.
-## 5. The Bitcoin base layer serves one purpose only.
-Bitcoin is not static out of stagnation; it is conservative by default and we believe it must remain this way. The base layer is not a playground for endless experimentation or the proliferation of novel use cases, but a foundation for settlement; its purpose is not to gain new functionality, but to retain its one and only use case as sound money. Those proposing changes bear the burden of demonstrating, openly and to skeptics, that the proposal does not compromise this covenant. Innovation belongs on the layers above; the base layer must remain static, for its stability is the only guarantee that the money itself will survive.
+## 5. Bitcoin's immutable purpose
+Bitcoin is not conservative out of stagnation, but by design. The base layer exists to preserve Bitcoin as sound, peer-to-peer electronic cash—not as a platform for perpetual experimentation, feature development, or the pursuit of novel use cases.  Innovation may flourish in higher layers, but the monetary foundation beneath them must remain stable. As Bitcoin matures, its protocol should move toward ossification. The threshold for changing its fundamental rules should rise with time, until development consists primarily of maintenance, security, compatibility, and improvements necessary to preserve the system we inherited. Those proposing fundamental changes bear the burden of demonstrating, openly and to skeptics, that they are necessary to preserve Bitcoin's monetary properties, not merely useful, desirable, profitable, or technically possible.
+
 ## 6. We think in generations
-Bitcoin was not built just for us. We are temporary custodians of a monetary system intended to endure long after we are gone.
-We judge changes not only by what they accomplish today, but by the precedents, dependencies, and burdens they leave behind. Convenience in the present must not come at the expense of sovereignty in the future.
-We seek to preserve the money that our children and grandchildren can hold, transact with, and independently verify under the same fundamental rules we inherited.
-We do not optimize Bitcoin for the next cycle. We preserve it for the next century.
+Bitcoin must not serve us. We are temporary custodians of a monetary system intended to endure long after we are gone. We judge changes not only by what they accomplish in our lifetimes, but by the precedents, dependencies, and burdens they leave future generations. Convenience in the present must not come at the expense of future sovereignty. We seek to preserve a money our children and grandchildren can hold, transact with, and independently verify under the same fundamental principles we inherited. In matters of fundamental principle, the Bitcoin of today must be the Bitcoin of tomorrow. We do not optimize Bitcoin for the next cycle. We preserve it for the next century.
+
+## 7. Disagreement without division
+Bitcoin depends not only upon code, but upon the voluntary agreement of people who independently choose to enforce the same rules.  When disagreement arises, we return first to these Principles and ask what best preserves the common ground that brought us together. Changes that threaten to fracture that agreement bear an extraordinary burden of necessity. We should remember what this hard fork has cost us — the uncertainty, division, stress, and loss of trust that brought us here. We are stronger together. These Principles give us common ground to return to when future disagreements arise — not by demanding conformity, but by reminding us what brought us together and what we chose to preserve.
 
 
 
