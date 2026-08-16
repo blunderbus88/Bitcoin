@@ -23,3 +23,11 @@ The quantum debate will establish a precedent that coins validly owned under exi
 ## 5. BTC-SHA256 will continue moving toward institutional and industrial infrastructure.
 
 Mining and protocol infrastructure will increasingly involve large pools and corporations, even while technologies such as Stratum V2 attempt to return transaction selection to individual miners. The current Stratum V2 effort illustrates both sides: major pools representing a large share of hashrate are participating specifically in an effort to decentralize block construction.
+
+## 6. Node runners will face legal challenges over on-chain content.
+
+In some jurisdictions, node runners will face explicit legal or regulatory challenges because their nodes store or relay illegal content embedded in the blockchain or propagated through their mempools. As arbitrary data use expands, the assumption that neutral protocol participation shields ordinary node operators from liability will be tested.
+
+## 7. Running a fully validating node will become increasingly inaccessible to ordinary users.
+
+Continued growth in blockchain and UTXO-set resource requirements, driven in part by data inscriptions and other non-monetary uses of block space, will increase the cost of independently running a fully validating BTC-SHA256 node. Over time, fewer ordinary users will find it practical to maintain one themselves, further concentrating verification in professional and institutional infrastructure.
