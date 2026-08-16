@@ -19,7 +19,14 @@ The decisions we make today will echo for centuries. Therefore, we hold these Pr
 Bitcoin is not a commodity awaiting conversion into money, nor a platform in search of a use. It is money: a direct medium of exchange and store of value, capable of serving as its own unit of account. We say plainly what it is because clarity of purpose is the first defense against its attempted transformation into something else. The base layer exists to serve Bitcoin's monetary function. We reject treating scarce block space as a general-purpose data storage service.
 
 ## 2. Twenty-One Million
-Bitcoin's fixed issuance schedule is fundamental to its character as sound money. It shall not be altered to create monetary inflation beyond its established limit. No government, corporation, developer, miner, emergency, war, recession, political movement, loss of coins, or concern over future miner revenue justifies deliberate monetary debasement. We reject perpetual inflation as a solution to Bitcoin's security budget. We reject additional issuance to replace lost coins. We reject any deliberate expansion of Bitcoin's supply. Twenty-one million. Not one Satoshi more.
+
+### Law
+
+Absolute scarcity is inviolable. There shall never be more than 21,000,000 Bitcoin where each Bitcoin is defined as 100,000,000 Satoshis. Any error, exploit, or as yet unforeseen consequence which would increase the limit is therefore entitled to be rectified such that the limit is upheld.
+
+### Rationale
+
+Bitcoin's fixed issuance is fundamental to its character as sound money as definitional to its nature. No government, corporation, developer, miner, emergency, war, recession, political movement, or party of any caliber may justify monetary debasement, deliberate or accidental. We reject perpetual inflation as a solution to Bitcoin's security budget, enfranchisement of holders, replacement of lost coins, or any future justifications unforeseen at this date.
 
 ## 3. Pursue decentralization
 We seek a Bitcoin in which individuals can hold, transact, verify, and participate without requiring permission from or dependence upon any person, company, development team, software implementation, miner, or institution. Changes affecting Bitcoin's protocol, network policy, or practical requirements for participation should be evaluated for their effect on decentralization. We consider the accessibility of independent node operation, the cost of verification, concentration of mining and development, and dependence upon particular software or infrastructure. We welcome diversity in implementations, mining, infrastructure, and development because we believe it strengthens resilience of the network. Decentralization is not a condition we claim to have achieved, but a direction we commit to pursue.
