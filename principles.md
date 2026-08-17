@@ -35,9 +35,11 @@ Bitcoin must not serve only us. We are temporary custodians of a monetary system
 
 ## 7. Disagreement without division
 
-Bitcoin depends not only upon code, but upon the voluntary agreement of people who independently choose to enforce the same rules. Preserving that agreement requires patience in disagreement, humility in conviction, good faith toward one another, and the self-control to seek truth rather than victory. When disagreement arises, we return first to these Principles and ask what best preserves our common ground. We listen before we divide, challenge ideas without contempt, and remain willing to be corrected. Changes that threaten to fracture consensus bear an extraordinary burden of necessity. We should remember what this hard fork has cost: uncertainty, division, stress, and lost trust. A community capable of disagreement without enmity, conviction without arrogance, and strength without domination is difficult to divide.
+Bitcoin depends not only upon code, but upon the voluntary agreement of people who independently enforce the same rules. That agreement can be destroyed without any failure of the protocol. Rivalry can replace common purpose, suspicion replace good faith, anger harden into contempt, and disagreement into faction.
 
-These Principles cannot compel unity, nor should they. They remind us what brought us together, what we chose to preserve, and what we owe one another in its defense.
+A community consumed by hostility, pride, ambition, greed, and division will eventually find reasons to fracture. Changes that threaten consensus therefore bear an extraordinary burden of necessity, and disagreements demand patience, humility, self-control, and a willingness to be corrected.
+
+We should remember what this hard fork has cost: uncertainty, division, stress, and lost trust. These Principles cannot compel unity. They are a warning that Bitcoin may withstand attacks from without while being divided by those entrusted with its defense.
 
 ## Our Commitment
 
